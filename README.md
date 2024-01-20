@@ -20,6 +20,7 @@ features
 - [ ] `defer` statement (or `scoped` qualifier?)
 - [ ] basic facilities for **struct member initialization**
 - [ ] **enum safety** additions
+- [ ] **named function parameters**
 - [ ] full **compliance** with c syntax
 
 
