@@ -21,6 +21,7 @@ features
 - [ ] basic facilities for **struct member initialization**
 - [ ] **enum safety** additions
 - [ ] **named function parameters**
+- [ ] automatic **forward declarations** for static functions in a translation unit
 - [ ] full **compliance** with c syntax
 
 
